@@ -85,23 +85,9 @@ Both types of dependencies come with different security concerns:
 
 | **Internal Dependencies** | **External Dependencies** |
 |---------------------------|---------------------------|
-| Libraries can become      |We don’t have full control |
-|outdated if they no longer | over external libraries,  |
-|receive updates or the     | so we need to check they  |
-|original developer leaves  | are secure.               |
-|the company.               |                           |
-|-------------------------------------------------------|
-| The company is responsible|If an external package     |
-| for securing the internal | manager or content        |
-| package manager.          | distribution network (CDN)| 
-|                           |is hacked, it could lead to|
-|                           | a supply chain attack.    |
-|-------------------------------------------------------|
-| A problem in an internal  |External libraries may have|
-|library can affect multiple|unknown vulnerabilities,   |
-| applications if it's used |which attackers could      |
-| in all of them.           |exploit. This can affect   |
-|                           |many organizations at once.|
+| Libraries can become outdated if they no longer receive updates or the original developer leaves the company. | We don’t have full control over external libraries, so we need to check they are secure. |
+| The company is responsible for securing the internal package manager. | If an external package manager or content distribution network (CDN) is hacked, it could lead to a supply chain attack. |
+| A problem in an internal library can affect multiple applications if it's used in all of them. | External libraries may have unknown vulnerabilities, which attackers could exploit. This can affect many organizations at once. |
 
 
 ### Common Tools
