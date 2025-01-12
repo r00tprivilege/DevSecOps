@@ -1,3 +1,4 @@
+# Intro to DevSecOps
 ## Introduction:
 
 If you’re aiming to enter the world of DevOps/DevSecOps, you’ve likely come across the term infrastructure as code (IaC). IaC is a core component of DevSecOps, which is why it’s extensively discussed in various articles, blog posts, and papers. However, these resources often skim over many concepts and tools, which can leave newcomers confused about key IaC terms and uncertain about which tools to use for different purposes. This section will provide a gradual introduction to infrastructure as code, guiding you through the essential terms and providing a foundational understanding of IaC. You can build on this knowledge with the subsequent sections in this module.
@@ -36,7 +37,8 @@ In response to the challenges with the Waterfall Model, businesses began develop
 
 Companies now valued team collaboration, self-organizing teams, and a focus on clients, with ample room for change and flexibility. However, something was still missing.
 
-### DevOps: A New Hope
+## DevOps
+
 In 2008, a conversation between Andrew Clay and Patrick Debois led to something revolutionary. Discussing Agile's drawbacks, they gave birth to DevOps. After the "DevOpsDays" event in Belgium in 2009, DevOps became a buzzword, and its popularity soared.
 
 DevOps differs from previous methodologies by driving "cultural change" to increase efficiency. It unites all project teams through integration and automation. This approach fosters cross-integration among QA, sysadmins, and developers.
@@ -98,13 +100,13 @@ Before agile methodologies, developers requested infrastructure from IT and rece
 
 The Shift-Left approach ensures that these flaws are caught early by integrating processes from the start. In today's fast-paced environment, post-development security reviews and analysis of cloud infrastructure configurations can create bottlenecks. Even when problems are discovered, there often isn't enough time to address them before the next version or feature is released. To keep up with customer demands and ensure security isn't left behind, adapting security testing to fit the development lifecycle is crucial.
 
-### DevSecOps: Security from the Start
+## DevSecOps: Security at Start
 This development approach, referred to as DevSecOps, integrates security early in the development cycle, significantly minimizing risks. By incorporating code analysis tools and automated tests earlier in the process, security loopholes are better identified and eliminated. As a result, when the software reaches the deployment stage, it functions smoothly as expected. Security is not an add-on; it's a must-have design feature.
 
 Integrating security in DevOps not only enhances the impact of DevOps but also eliminates many bottlenecks that could otherwise arise. With the rise in cyber threats and stricter regulations, adding security to DevOps is not a choice but an obligation.
 
 
-## DevSecOps: Security Strikes Back
+## DevSecOps: Strikes Back
 
 DevSecOps is an approach that leverages automation and platform design to make security a shared responsibility. It promotes a culture where security is a daily operation integrated into development processes.
 
@@ -125,7 +127,7 @@ Creating a culture where security is treated as a regular aspect of application 
 New experiments or software should not be bogged down by complicated security compliance processes. Procedures should be flexible, treating lower-risk tasks differently from higher-risk ones. Developers need environments to test new software without common security limitations, such as "SandBox" environments—temporarily isolated environments with no connection to internal networks and no customer data.
 
 
-### DevSecOps Culture
+## Culture
 
 #### Promote Autonomy of Teams
 In large organizations or fast-growing startups, maintaining security can be challenging. Promoting team autonomy is essential. Automate processes that integrate seamlessly with the development pipeline until security tests become as routine as unit testing or smoke tests.
