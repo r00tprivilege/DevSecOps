@@ -1,2 +1,2 @@
 # DevSecOps
-All You Need As DevSecOps Eng.
+All You Need As A DevSecOps Eng.
