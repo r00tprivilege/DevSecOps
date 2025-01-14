@@ -6,7 +6,7 @@ Humans are always trying to find easier and more efficient ways to do things. Wh
 
 **Learning Objectives**
 
-In this room, you'll learn about these topics:
+In this part, you'll learn about these topics:
 - What the DevOps pipeline is
 - The tools and automation used in DevOps
 - Basic security principles for the DevOps pipeline
@@ -23,7 +23,7 @@ For each part of the pipeline, we will cover:
 - An introduction to its security
 - A case study showing what can happen if security fails
 
-We will go into more detail on each of these topics in the upcoming rooms of this module.
+We will go into more detail on each of these topics in the upcoming parts of this module.
 
 ## Source Code and Version Control
 
