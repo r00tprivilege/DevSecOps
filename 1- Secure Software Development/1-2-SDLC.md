@@ -12,7 +12,7 @@ By the end of this section, you will:
 - Understand the security-related phases and processes of the SDLC
 
 ## SDLC
-![image](https://github.com/user-attachments/assets/5068111d-332e-43fd-a631-4cc2f5bce310)
+![image](https://github.com/user-attachments/assets/6e788d8d-bb89-4e34-89c4-d8df450ffe23)
 
 **What is the Software Development Lifecycle (SDLC)?**
 
