@@ -342,7 +342,10 @@ Both **Vulnerability Assessments** and **Penetration Testing** play a vital role
 
 
 ## SSDLC Methodologies
+---
+![image](https://github.com/user-attachments/assets/64b2c393-44f9-43d6-87a1-23e5f882f952)
 
+---
 ### SSDLC Methodologies
 
 There are different ways to add security to the Software Development Life Cycle (SDLC). No matter which development method you choose (Agile, DevOps, Waterfall, etc.), you should always:
