@@ -1,6 +1,8 @@
 # Intro to DevSecOps
 ## Introduction:
-
+---
+![image](https://github.com/user-attachments/assets/2ff631e6-9b27-4bd4-9027-819013d2cff4)
+---
 If you’re aiming to enter the world of DevOps/DevSecOps, you’ve likely come across the term infrastructure as code (IaC). IaC is a core component of DevSecOps, which is why it’s extensively discussed in various articles, blog posts, and papers. However, these resources often skim over many concepts and tools, which can leave newcomers confused about key IaC terms and uncertain about which tools to use for different purposes. This section will provide a gradual introduction to infrastructure as code, guiding you through the essential terms and providing a foundational understanding of IaC. You can build on this knowledge with the subsequent sections in this module.
 
 ### Learning Prerequisites
