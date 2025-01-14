@@ -121,7 +121,10 @@ Threat modelling is best done early in the design phase of the Software Developm
 There are several methods to perform threat modelling, each with a slightly different focus. Some methods look more at risks, others focus on privacy or customer concerns. The key is to choose the method that best fits the project or business. Popular threat modelling methods include STRIDE, DREAD, and PASTA.
 
 ### **STRIDE**
+---
+![image](https://github.com/user-attachments/assets/bd467e4d-a486-4ea6-9c18-bccc7e082b4a)
 
+---
 STRIDE is a widely used threat modelling method created by Microsoft. It focuses on six types of threats:
 
 - **Spoofing**: When an attacker impersonates a user or system. This violates the **Authentication** principle (part of the CIA Triad—Confidentiality, Integrity, Availability). Examples include IP or DNS spoofing.
@@ -137,10 +140,12 @@ STRIDE is a widely used threat modelling method created by Microsoft. It focuses
 - **Elevation of Privilege**: When an attacker gains higher access rights than they are supposed to have, violating the **Authorization** principle of the CIA Triad.
 
 To use STRIDE, security professionals typically create a data flow diagram (DFD) to understand the system’s structure and identify potential threats. STRIDE focuses on answering the question: "What could go wrong with this system?"
+![image](https://github.com/user-attachments/assets/c3d275cd-40f5-4a85-a6b4-6d65067c4c35)
 
 ---
 
 ### **DREAD**
+![image](https://github.com/user-attachments/assets/0377fcd7-16ae-454c-9732-8986f829af37)
 
 DREAD is another model from Microsoft that is often used in combination with STRIDE. DREAD helps rank threats based on their severity. It uses five factors to score each threat:
 
@@ -155,11 +160,14 @@ DREAD is another model from Microsoft that is often used in combination with STR
 - **Discoverability**: How easy it is to find the vulnerability. A score of 0 means it’s hard to detect, while a score of 10 means it’s easy to spot, like a public-facing issue.
 
 Each of these factors is rated on a scale (usually from 0 to 10), and the scores help prioritize which threats need attention first.
+![image](https://github.com/user-attachments/assets/71de443a-a653-40c0-8e7a-859e5301fef0)
 
 ---
 
 ### **PASTA**
-
+---
+![image](https://github.com/user-attachments/assets/5fd5256a-98fc-41b9-848c-b3ce7354516a)
+---
 PASTA (Process for Attack Simulation and Threat Analysis) is a risk-focused framework that helps align technical requirements with business objectives. It looks at threats from an attacker’s perspective and helps identify vulnerabilities and mitigate them strategically. PASTA consists of seven stages:
 
 1. **Define Objectives**: Set clear goals for what the system needs to protect and identify critical assets that need to be secured.
@@ -180,13 +188,17 @@ PASTA (Process for Attack Simulation and Threat Analysis) is a risk-focused fram
 By using these threat modelling techniques—STRIDE, DREAD, or PASTA—developers and security professionals can identify and address potential vulnerabilities early in the design phase. This proactive approach helps protect valuable data, reduces the chances of a successful attack, and minimizes the cost of fixing issues later in the development process.
 
 ## Secure Code Review & Analysis
-
+---
+![image](https://github.com/user-attachments/assets/cfc2e8c5-911f-42a8-bca5-e7b42e13de47)
+---
 ### Secure Code Review & Analysis
 
 Research by Verizon in 2020 found that 43% of data breaches were caused by attacks on web applications, with many other breaches linked to vulnerabilities in web applications. To help prevent such issues, it's essential to integrate secure code review into the Software Development Lifecycle (SDLC), especially during the implementation phase. Doing so strengthens the security of the product and reduces future costs associated with patching vulnerabilities.
 
 A **secure code review** is the process of checking the code to identify and fix security weaknesses. This helps prevent vulnerabilities and flaws from being released into production. By having developers regularly review their code, the team can catch problems early and respond faster. Code reviews are crucial because they avoid delays in the release and help avoid exposing users to security risks. Implementing secure code reviews can also ensure that the company meets compliance standards set by government bodies and certifications.
-
+---
+![image](https://github.com/user-attachments/assets/be66d020-dd1e-49be-85df-11291a6c2e9f)
+---
 There are two main types of code reviews: **manual** and **automated**.
 
 - **Manual Code Review**: An expert reviews the code line by line to identify any vulnerabilities. This requires clear communication between the expert and the developers to understand the code’s purpose. After the review, the expert reports any issues back to the developers, who can then fix them.
@@ -228,6 +240,9 @@ There are two main approaches to code analysis: **static analysis** and **dynami
 - **Benefits**: IAST provides more accurate and detailed reports on vulnerabilities, allowing developers to fix issues quickly during testing.
 
 - **Bonus: RASP (Runtime Application Self Protection)**: RASP is a tool that works in real-time to monitor and protect an application while it’s running. It analyzes incoming and outgoing traffic, as well as user behavior, to block attacks before they cause harm. Unlike other tools, RASP is used after the application is live, providing protection against attacks that may have bypassed earlier security measures.
+---
+![image](https://github.com/user-attachments/assets/4f5bdc08-bb59-41bd-a751-9a0830e50d09)
+---
 
 ### Choosing the Right Tools
 
