@@ -2,6 +2,7 @@
 
 **Introduction**  
 This section explains the Software Development Lifecycle (SDLC) framework, its stages, and its key parts.
+![image](https://github.com/user-attachments/assets/6d6a2558-a734-4b4b-8ec1-a42d5be4b3c5)
 
 **Learning Objectives**  
 By the end of this section, you will:  
@@ -11,6 +12,7 @@ By the end of this section, you will:
 - Understand the security-related phases and processes of the SDLC
 
 ## SDLC
+![image](https://github.com/user-attachments/assets/5068111d-332e-43fd-a631-4cc2f5bce310)
 
 **What is the Software Development Lifecycle (SDLC)?**
 
@@ -37,6 +39,7 @@ There are typically 6 to 8 phases in the SDLC. These phases are:
 7. **Operations & Maintenance**: After the software is launched, engineers work to fix any bugs or issues reported by users. They may also add new features in future updates.
 
 ## SDLC Phases
+![image](https://github.com/user-attachments/assets/35ee28c7-4405-4a19-b797-6418341ee786)
 
 **Introduction**  
 The first phases of the Software Development Lifecycle (SDLC) focus on breaking down the project or application before actual development begins.
@@ -101,6 +104,7 @@ As operations teams focus on automation, they also make sure that all systems ar
 
 
 ## Keep CALMS
+![image](https://github.com/user-attachments/assets/1573c2bc-e17e-4bf7-bf27-0e6aa5e3ee6c)
 
 **CALMS Framework for DevOps Adoption**
 
