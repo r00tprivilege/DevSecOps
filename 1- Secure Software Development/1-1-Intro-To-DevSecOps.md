@@ -16,6 +16,8 @@ This section is a continuation of the DevSecOps path, so it’s crucial to have 
 - Differentiate between on-premise IaC and cloud-based IaC, and understand the benefits of each
 
 DevOps:
+---
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/2163a717-1def-481c-88ca-413b70a95c0d" />
 
 Since its introduction, Developer Operations (DevOps) has had a major impact on modern Software Development, Deployment, and Operations. But where did this term originate?
 
@@ -23,6 +25,8 @@ Since its introduction, Developer Operations (DevOps) has had a major impact on 
 In a distant past, in a galaxy far, far away, there were waterfalls.
 
 #### Waterfall Model
+![image](https://github.com/user-attachments/assets/669480a7-e760-4326-bafa-0cc322dd6807)
+
 The Waterfall Model was the approach to project management back in the 1970s. This hierarchical structure assigned specific responsibilities to each team member. System administrators worked tirelessly to keep everything running smoothly. Developers built and added as many features as possible. Quality Assurance (QA) engineers tested the system's functionality to ensure it worked as expected.
 
 If servers had issues or something needed deployment, system admins would handle it. Developers tackled code problems, and QA teams dealt with testing and feedback. But what if a bug emerged? Who would fix it? These situations often led to blame games, creating friction and backlogs. As customer expectations grew, so did the number of features and new releases. Tasks and responsibilities piled up, leading to an unmanageable mess. Bugs and security flaws accumulated, and unresolved issues piled up. The system's lack of scalability created excessive pressure, distrust, communication gaps, and team friction.
@@ -30,6 +34,8 @@ If servers had issues or something needed deployment, system admins would handle
 This outdated problem-solving strategy and system were the root causes of inflexibility and poor communication across teams.
 
 #### Agile Model
+![image](https://github.com/user-attachments/assets/919702a6-dff0-4bf6-b9b8-27667e6ca501)
+
 In response to the challenges with the Waterfall Model, businesses began developing more flexible and adaptable approaches. In the early 2000s, the Agile Methodology was born, along with the Agile Manifesto, which emphasized four values:
 
 - Individuals and interactions over processes and tools
@@ -40,7 +46,7 @@ In response to the challenges with the Waterfall Model, businesses began develop
 Companies now valued team collaboration, self-organizing teams, and a focus on clients, with ample room for change and flexibility. However, something was still missing.
 
 ## DevOps
-
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/2163a717-1def-481c-88ca-413b70a95c0d" />
 In 2008, a conversation between Andrew Clay and Patrick Debois led to something revolutionary. Discussing Agile's drawbacks, they gave birth to DevOps. After the "DevOpsDays" event in Belgium in 2009, DevOps became a buzzword, and its popularity soared.
 
 DevOps differs from previous methodologies by driving "cultural change" to increase efficiency. It unites all project teams through integration and automation. This approach fosters cross-integration among QA, sysadmins, and developers.
