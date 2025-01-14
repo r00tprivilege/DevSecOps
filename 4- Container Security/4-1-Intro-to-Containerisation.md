@@ -2,9 +2,6 @@
 
 ### **Introduction to Containerization**
 
-**Date**: Thursday, January 11, 2025  
-**Time**: 14:15
-
 This guide will walk you through the essentials of **containerization technology**, with a focus on understanding the fundamentals and significance of **Docker**, one of the most widely used containerization platforms.
 
 ### **Learning Outcomes**:
