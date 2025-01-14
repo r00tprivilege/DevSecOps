@@ -2,7 +2,9 @@
 
 **Introduction**  
 This section focuses on the Secure Software Development Lifecycle (S-SDLC), its processes, and methods.
-
+---
+![image](https://github.com/user-attachments/assets/598d2576-b698-4fc7-b6ea-11c33a861323)
+---
 **Learning Objectives**  
 In this section, you will learn to:  
 - Understand what S-SDLC is and why it’s important  
@@ -10,6 +12,7 @@ In this section, you will learn to:
 - Explore the different methodologies used in Secure SDLC  
 
 ## What is SSDLC?
+![image](https://github.com/user-attachments/assets/4944d3ed-1a90-40d4-b715-520915c7b0a0)
 
 **Secure Software Development Lifecycle (S-SDLC)**  
 In traditional Software Development Life Cycle (SDLC), security testing often came late in the process. Bugs, security flaws, and other vulnerabilities were discovered late, making them expensive and time-consuming to fix. Often, security was overlooked until the testing phase, and many issues were only found by end-users after the product was released. The **Secure SDLC (S-SDLC)** model aims to include security at every stage of development, making security a priority from start to finish.
@@ -24,6 +27,7 @@ A study by the Systems and Sciences Institute at IBM found that fixing a bug dur
 For example, in traditional waterfall models, security testing was often done at the end, just before production. In more modern, agile approaches, security can be integrated throughout the process, such as reviewing architecture in the design phase, doing code reviews and scans during development, and conducting security tests (like penetration tests) before deployment.  
 
 In a waterfall model, if a security flaw like an **SQL injection** is found during testing, it would require a full redesign and retesting, making it a costly fix. However, in an agile approach, such flaws can be prevented early by addressing them in the planning phase. For example, deciding to use parameterized queries during the planning phase can prevent this issue from arising, saving time and money.
+![image](https://github.com/user-attachments/assets/7543992d-207c-4af2-9f35-d7737e263c57)
 
 **Summary**  
 - Security is an ongoing concern that improves both software quality and security.  
