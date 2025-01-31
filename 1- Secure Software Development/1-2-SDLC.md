@@ -24,7 +24,7 @@ SDLC breaks down the software development process into different phases. Each ph
 
 There are typically 6 to 8 phases in the SDLC. These phases are:
 
-1. **Planning**: This phase involves organizing the project. It includes things like allocating resources, scheduling tasks, and estimating costs.
+1. **Planning**: This phase involves organizing the project. It includes things like allocating resources, scheduling tasks and estimating costs.
 
 2. **Requirements Definition**: This is part of planning, where you figure out what the software should do. For example, a social media app needs to have features that allow users to connect with friends.
 
