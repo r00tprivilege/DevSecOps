@@ -28,8 +28,6 @@ We will go into more detail on each of these topics in the upcoming parts of thi
 
 ## Source Code and Version Control
 ![image](https://github.com/user-attachments/assets/b67fa96b-3e5f-40ba-8b2b-21289f49346b)
-![image](https://github.com/user-attachments/assets/a3c8f85c-b1e3-4e58-a2ed-dbe217cba8d5)
-
 
 Let’s start with **source code** and **version control**. This is where our pipeline begins. We need a place to store our code, and we also need to keep track of different versions of it since we’re constantly improving and adding new features.
 
