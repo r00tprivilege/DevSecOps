@@ -14,6 +14,7 @@ In this part, you'll learn about these topics:
 This is just an introduction. You'll learn more about these topics in detail in the other parts of this module.
 
 ## DevOps Pipelines Explained
+![image](https://github.com/user-attachments/assets/c62d8c43-ea8c-40f3-8709-6f6c0a299982)
 
 Before we dive into automation security, let's first understand what a pipeline is and where automation fits in. The diagram below shows what a typical pipeline looks like and the software that might be used at each stage.
 
@@ -26,6 +27,9 @@ For each part of the pipeline, we will cover:
 We will go into more detail on each of these topics in the upcoming parts of this module.
 
 ## Source Code and Version Control
+![image](https://github.com/user-attachments/assets/b67fa96b-3e5f-40ba-8b2b-21289f49346b)
+![image](https://github.com/user-attachments/assets/a3c8f85c-b1e3-4e58-a2ed-dbe217cba8d5)
+
 
 Let’s start with **source code** and **version control**. This is where our pipeline begins. We need a place to store our code, and we also need to keep track of different versions of it since we’re constantly improving and adding new features.
 
@@ -68,6 +72,7 @@ The problem occurs when a developer accidentally commits sensitive information, 
 This shows how version control can cause problems if sensitive data is not handled carefully.
 
 ## Dependency Management
+![image](https://github.com/user-attachments/assets/3fc04acb-ba3b-40cf-9a6b-87a97215a455)
 
 Let's talk about **dependencies**. When we develop software, it might seem like we’re writing a lot of code, but in reality, we’re only writing a small part of it. Most of the code we use has already been written for us in the form of **libraries** and **software development kits (SDKs)**. For example, even simple things like a **String** in an application come with an entire library behind them! Managing these dependencies is an important part of the development process.
 
@@ -76,8 +81,12 @@ There are two types of dependencies: **external** and **internal**.
 
 - **External dependencies** are libraries and SDKs that are publicly available. These are hosted on dependency managers like:
   - **PyPi** for Python
+  ![image](https://github.com/user-attachments/assets/f96c2c44-701f-410f-96ba-22de1d5fb037)
   - **NuGet** for .NET
+  ![image](https://github.com/user-attachments/assets/66974696-3773-481f-9746-c57a62eb2cf4)
   - **Gems** for Ruby libraries
+  ![image](https://github.com/user-attachments/assets/75e4b2c7-c946-447c-8651-e2c6f1a1b134)
+
 
 - **Internal dependencies** are libraries or SDKs that a company develops and maintains. For example, a company might create an authentication library used in all its applications.
 
