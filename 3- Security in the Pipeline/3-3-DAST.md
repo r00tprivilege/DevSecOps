@@ -4,7 +4,7 @@
 
 #### **Overview**
 ![image](https://github.com/user-attachments/assets/d2a0a051-01df-4cfd-a750-06e43782f9ca)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e67845d0-f6e6-463a-9c04-b89ccfa5d5a3)
 
 
 Dynamic Application Security Testing (DAST) is a method of identifying vulnerabilities in an application by simulating the actions of an external attacker. This technique focuses on testing the application in its running state, rather than examining the code itself, making it an effective way to find security issues that may not be apparent during static analysis.
