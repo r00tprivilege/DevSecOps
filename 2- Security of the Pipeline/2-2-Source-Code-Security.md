@@ -1,4 +1,5 @@
 ## Source Code Security
+![image](https://github.com/user-attachments/assets/3f96df7b-0f78-444c-b637-9496c6ee0197)
 
 **Introduction**
 
@@ -12,6 +13,7 @@ In today’s fast-paced software development world, keeping your source code saf
 By the end of this session, you’ll have a strong understanding of source code security, how to use Git for version control, and how to manage your code safely and efficiently. Let’s get started!
 
 ## The Story of Git
+![image](https://github.com/user-attachments/assets/f173ab21-20be-4c8d-be11-ea11cf419a98)
 
 **The Story of Git**
 
@@ -41,6 +43,7 @@ In software development, keeping source code safe is very important. Version con
 Version control uses a system called a repository. You can think of a repository as a database that stores all the changes made to a project. Developers also have a personal copy of the project files called a working copy (or checkout). In the working copy, developers can make changes without affecting others. Once they are happy with the changes, they can save (or "commit") those changes to the repository.
 
 **Types of version control**
+![image](https://github.com/user-attachments/assets/3f4485d6-eae4-4de9-addc-dc4cccaf6039)
 
 Version control systems can be centralized or distributed:
 
@@ -56,12 +59,14 @@ In this guide, we will focus on **Git**, as it is one of the most widely used ve
 
 
 ## Cloud Based Version Control
+![image](https://github.com/user-attachments/assets/e5c51576-776b-4cb8-aaa1-1bd2840dd143)
 
 **Introduction**
 
 Cloud-based version control is a modern way to manage source code in software development. With this system, the code and its version history are stored in the cloud, allowing developers to work on code from anywhere. This makes it easier for distributed teams to collaborate. Cloud-based platforms offer easy access, real-time teamwork, and strong version history management. They also integrate well with other tools, providing a flexible and efficient solution for modern software development.
 
 **GitHub**
+![image](https://github.com/user-attachments/assets/4c43de7c-1da1-4d3d-b77b-572408858bcf)
 
 GitHub is a cloud-based platform that lets developers store and manage their source code from anywhere. It is the oldest of the major platforms, created in 2007 by Chris Wanstrath, P.J. Hyett, Tom Preston-Werner, and Scott Chacon. GitHub was built using Ruby on Rails and became the first open-source code repository on the web, making it the dominant platform for developers. Today, developers use GitHub to host, manage, and review their code.
 
@@ -119,7 +124,7 @@ Environment variables are a good way to handle credentials securely. They are of
 **Note**: Using environment variables doesn't guarantee safety. It’s important to follow best practices to make sure they are properly secured.
 
 
-## The Git, The Branch and The Ugly
+## Git & Branch
 
 **Introduction: Git**
 
