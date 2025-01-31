@@ -49,8 +49,10 @@ We’ll explore the components of the CI/CD pipeline and common security issues 
 ### The SolarWinds Case
 
 The SolarWinds breach, discovered in December 2020, was a major cyberattack. Hackers compromised SolarWinds’ software supply chain by injecting malicious code called **SUNBURST** into updates for its Orion software. This allowed attackers to gain access to the networks of many organizations, including government agencies and private companies.
+![image](https://github.com/user-attachments/assets/4ee4c609-b68f-41b0-b1d8-b44b36db7e36)
 
 This breach highlighted the importance of securing the entire software supply chain, including the build environment. We will use this case to guide us through measures to strengthen our build security, such as **isolation**, **segmentation**, and setting up **access controls** to prevent unauthorized access.
+![image](https://github.com/user-attachments/assets/b0ee8d72-403d-4bad-802e-f1af7b5df8eb)
 
 ### Key Security Measures
 
@@ -688,16 +690,15 @@ Limiting access to your build secrets is just as important as securing them. To 
 
 By carefully managing who can view and modify these sensitive variables, you ensure that only those who need access to them can interact with them.
 
----
 
 ### Conclusion
 
 In summary, protecting **build secrets** is a vital part of maintaining a secure DevSecOps pipeline. By using **masked variables**, **secure variables**, and enforcing **access control**, you can ensure that secrets are protected from unauthorized access and exposure, even during build and deployment stages.
 
 By following the steps outlined above, you’ll ensure that your build secrets remain **segregated**, **masked**, and **secure** throughout the CI/CD pipeline, reducing the risk of exposure and maintaining the integrity of your pipeline.
+---
 
-
-## Conclusion
+## Total Conclusion
 
 ### Key Insights for Strengthening DevSecOps Security
 
